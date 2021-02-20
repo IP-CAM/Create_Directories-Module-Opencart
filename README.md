@@ -1,2 +1,2 @@
 # create_directories_opencart_module
-Надоело в ручную создавать папки при написании модулей для cms opencart
+Tired of manually creating folders when writing modules for cms opencart 
